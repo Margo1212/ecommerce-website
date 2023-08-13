@@ -5,7 +5,7 @@ import { MdFacebook } from "react-icons/md";
 
 const Footer = () => {
   return (
-    <footer className="text-slate-200 bg-slate-700 text-sm mt-16">
+    <footer className="text-slate-200 bg-teal-700 text-sm mt-16">
       <Container>
         <div className="flex flex-col md:flex-row justify-between pt-16 pb-8">
           <FooterList>
