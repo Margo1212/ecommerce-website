@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    domains: [process.env.IMAGES],
+    domains: ["lh3.googleusercontent.com"],
   },
 };
 
